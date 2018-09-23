@@ -20,6 +20,7 @@ body {
 	background: #ffffff;
 	transform: translate(-50%, -70%);
 }
+
 .modal-stats {
 	display: flex;
 	flex-direction: column;
@@ -27,15 +28,18 @@ body {
 	padding: 5rem;
 	border-bottom: 1px solid gray;
 }
+
 .modal-replay {
 	width: 60px;
 	height: 30px;
 }
+
 .modal-button {
 	display: flex;
 	justify-content: space-around;;
 	padding: 3rem;
 }
+
 .hide {
 	display: none;
 }
