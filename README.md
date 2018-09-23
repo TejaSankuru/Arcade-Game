@@ -20,3 +20,4 @@ https://www.youtube.com/watch?v=JcQYGbg0IkQ
 
 https://matthewcranford.com/arcade-game-walkthrough-part-1-starter-code-breakdown/
 
+https://knowledge.udacity.com/?page=1&query=arcade%20game&sort=RELEVANCE
