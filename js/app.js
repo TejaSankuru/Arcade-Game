@@ -79,7 +79,8 @@ class Hero {
                 }
                 break;
             case 'up':
-                if(this.y > this.jump) {
+                //if(this.y > this.jump) {
+                if(this.y > 0) {
                 //this.y -= 20;
                 this.y -= this.jump;
                 }
@@ -111,7 +112,8 @@ class Hero {
             }
             console.log(this.y, enemy.y);
         }
-        if(this.y === 55) {
+        //if(this.y === 55) {
+          if(this.y < 0) {
             //console.log('Win!');
             this.victory = true;
             //this.reset();
