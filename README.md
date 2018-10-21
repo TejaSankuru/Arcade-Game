@@ -6,7 +6,9 @@ The game can be either downloaded as zip file or cloned from the following link:
 
 __OR__
 
-Just click simply on https://tejasankuru.github.io/Arcade-Game/. to play the game.
+Just click simply on https://tejasankuru.github.io/Arcade-Game/ to play the game.
+
+[![Screen-Shot-2018-10-21-at-11-15-09-AM.png](https://i.postimg.cc/x8vJb7RR/Screen-Shot-2018-10-21-at-11-15-09-AM.png)](https://postimg.cc/Wq4bB5xF)
 
 __How to play the game:__
 
