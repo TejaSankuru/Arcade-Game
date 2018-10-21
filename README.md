@@ -3,7 +3,9 @@
 __How to run the game:__
 
 The game can be either downloaded as zip file or cloned from the following link: https://github.com/TejaSankuru/Arcade-Game. Once downloaded just open the folder and open the index.html file in your browser. You should be able to play the game right away.
+
 __OR__
+
 Just click simply on https://tejasankuru.github.io/Arcade-Game/. to play the game.
 
 __How to play the game:__
